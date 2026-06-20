@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.neta08-svg/huekit",
+  "description": "Convert a color to HEX/RGB/HSL/HSV/CMYK/OKLCH plus nearest CSS name and closest Pantone-style match.",
+  "version": "1.0.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "huekit-mcp", "version": "1.0.0", "transport": { "type": "stdio" } }
+  ]
+}
